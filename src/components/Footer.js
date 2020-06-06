@@ -59,7 +59,7 @@ const Footer = () => (
           <FooterContainer>
             <Fade left>
               <TextFooter fontSize={[2, 3]}>
-                <span>{`${name} Portfolio - 2020`}</span>
+                <span>{`${name} Portfolio - 2020 `}</span>
                 <span role="img" aria-label="alien">
                   👽
                 </span>
